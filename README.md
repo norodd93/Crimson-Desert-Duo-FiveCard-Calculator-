@@ -1,4 +1,4 @@
-# Crimson-Desert-Duo-Calculator
+# Crimson-Desert-Duo-FiveCard-Calculator
 Odds calculator for Duo and Five-Card — the card gambling minigames in Crimson Desert.  
 Input your hand and your opponents’ visible cards to instantly see win/loss probabilities and betting advice.
 
