@@ -1,5 +1,5 @@
-# Crimson-Desert-Duo-Calculator-
-Odds calculator for Duo and Five-Card (Seotda) — the card gambling minigame in Crimson Desert.  
+# Crimson-Desert-Duo-Calculator
+Odds calculator for Duo and Five-Card — the card gambling minigames in Crimson Desert.  
 Input your hand and your opponents’ visible cards to instantly see win/loss probabilities and betting advice.
 
 The user leumas152000 is the original creator of the app Crimson-Desert-Duo-Calculator- !  
